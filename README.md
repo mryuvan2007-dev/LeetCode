@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
