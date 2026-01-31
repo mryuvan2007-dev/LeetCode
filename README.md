@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0069-sqrtx) |
 | [2169-count-operations-to-obtain-zero](https://github.com/mryuvan2007-dev/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2469-convert-the-temperature](https://github.com/mryuvan2007-dev/LeetCode/tree/master/2469-convert-the-temperature) |
