@@ -12,5 +12,6 @@ class Solution(object):
             else:
                 curr=curr.next
         return head
+        """ it is linked list use next keyword to forward elements and val  to access the elements from th linked list"""
 
         
