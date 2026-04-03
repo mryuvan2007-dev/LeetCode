@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0035-search-insert-position) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0067-add-binary) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
