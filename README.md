@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0231-power-of-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/mryuvan2007-dev/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2469-convert-the-temperature](https://github.com/mryuvan2007-dev/LeetCode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
