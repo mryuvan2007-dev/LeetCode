@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -143,5 +146,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0190-reverse-bits) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
