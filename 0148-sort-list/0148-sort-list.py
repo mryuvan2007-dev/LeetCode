@@ -10,23 +10,23 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
         
-        nums = [] #create a list to store values from linked list 
+        nums = []
 
     # Store values in a list
-        temp = head 
-        while temp: # loop it
-            nums.append(temp.val) #add values in the list
-            temp = temp.next #loop it manually like i=i+1
+        temp = head
+        while temp:
+            nums.append(temp.val)
+            temp = temp.next
 
     # Sort the list
-        nums.sort() # sort using inbulit function
+        nums.sort()
 
     # Put sorted values back
         temp = head
         i = 0
         while temp:
-            temp.val = nums[i] # rewrite into tthe list
+            temp.val = nums[i]
             i += 1
             temp = temp.next
 
-        return head 
+        return head
