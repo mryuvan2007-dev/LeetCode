@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
@@ -135,14 +138,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0139-word-break) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0139-word-break) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
