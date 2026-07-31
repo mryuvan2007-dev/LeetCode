@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/mryuvan2007-dev/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/mryuvan2007-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mryuvan2007-dev/LeetCode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/mryuvan2007-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/mryuvan2007-dev/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 ## String
 |  |
